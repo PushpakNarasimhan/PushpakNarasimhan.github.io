@@ -1,15 +1,11 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: Swift
+  - item: Objective C
   - item: Python
-  - item: SQL
-  - item: R
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
+  - item: Cocoa / Cocoa Touch
+  - item: RxSwift
   - item: Jekyll
   - item: Node
   - item: D3
@@ -17,17 +13,8 @@ frameworks:
   - item: Timber
 
 tools:
+  - item: Xcode
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: CI/CD - Fastlane, Bitrise
   - item: Postman
-  - item: MongoDB
-
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
