@@ -7,7 +7,7 @@ baseurl: ''
 email: pushpak.narasimhan@gmail.com
 #cover: https://bchiang7.github.io/img/og.png
 logo: https://pushpaknarasimhan.github.io/img/emojis/technologist.png
-resume: https://pushpaknarasimhan.github.io/resume.pdf
+# resume: https://pushpaknarasimhan.github.io/resume.pdf
 social:
   - title: email
     url: mailto:pushpak.narasimhan@gmail.com
